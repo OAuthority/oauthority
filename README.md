@@ -1,7 +1,6 @@
-Howdy, I'm **Luke** — mostly known by the alias 'Original Authority' within the MediaWiki space. Somewhat amateur developer mostly proficient in PHP with some proficiency in JavaScript and related technologies.
+# 💫 About Me:
+Howdy, I'm **Luke**, going by the alias 'Original Authority', or 'OA' on the interweb. I can primarily be found within the MediaWiki space and have been the head <br>of the MediaWiki farm, Telepedia, since 2022.
 
-Since 2022, I have been the head of the Wiki Host, [Telepedia](https://meta.telepedia.net/wiki/Telepedia_Meta_Wiki).
 
-Starting to branch out into other things such as Salt and Go. Optionally like to investigate new and emerging technology.
-
-![My Skills](https://skillicons.dev/icons?i=php,js,jquery,html,css,redis)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
